@@ -3,7 +3,6 @@
 **Graduate Student @ Northeastern University, Boston | Master's in Computer and Information Science**
 
 ---
-
 ## Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-009688?style=for-the-badge&logo=netlify&logoColor=white)](https://roshanvl-portfolio.netlify.app/)
@@ -25,6 +24,18 @@
 </p>
 
 I am passionate about building creative solutions that have real-life impact. My interests span across Artificial Intelligence, Machine Learning, Full-Stack Development, Software Engineering, Internet of Things (IoT), and Cloud Computing. I love exploring new technologies and turning innovative ideas into reality.
+
+---
+
+## 🐍 Snake Animation
+
+<!-- SNAKE ANIMATION: dark mode (red snake, grid in dark/light green) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22">
+    <img alt="github contribution grid snake animation" src="https://github.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22">
+  </picture>
+</p>
 
 ---
 
