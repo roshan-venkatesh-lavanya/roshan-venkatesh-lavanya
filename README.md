@@ -36,6 +36,7 @@ I am passionate about building creative solutions that have real-life impact. My
   </picture>
 </p>
 
+
 ---
 
 ## 🛠️ Detailed Tech Stack
