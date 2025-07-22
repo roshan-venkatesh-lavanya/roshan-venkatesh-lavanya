@@ -29,11 +29,10 @@ I am passionate about building creative solutions that have real-life impact. My
 
 ## 🐍 Snake Animation
 
-<!-- SNAKE ANIMATION: dark mode (red snake, grid in dark/light green) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22">
-    <img alt="github contribution grid snake animation" src="https://github.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/roshan-venkatesh-lavanya/roshan-venkatesh-lavanya/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=ff2222&color_dots=#0f0,#22bb22" />
   </picture>
 </p>
 
