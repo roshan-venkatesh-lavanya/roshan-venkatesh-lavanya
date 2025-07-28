@@ -20,7 +20,7 @@
 ## ✨ About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Graduate+Student+in+CS;Cloud+%7C+AI+%7C+ML+%7C+Full-stack+%7C+IoT+%7C+Software;Passionate+about+building+creative+solutions+with+real-life+impact!;Always+Learning+%26+Building!;Let%27s+Connect+%F0%9F%91%8B" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Graduate+Student+in+CS;Cloud+%7C+AI+%7C+ML+%7C+Full-stack+%7C+Software;Passionate+about+building+creative+solutions+with+real-life+impact!;Always+Learning+%26+Building!;Let%27s+Connect+%F0%9F%91%8B" alt="Typing Animation" />
 </p>
 
 I am passionate about building creative solutions that have real-life impact. My interests span across Artificial Intelligence, Machine Learning, Full-Stack Development, Software Engineering, Internet of Things (IoT), and Cloud Computing. I love exploring new technologies and turning innovative ideas into reality.
