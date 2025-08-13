@@ -27,7 +27,7 @@ I am passionate about building creative solutions that have real-life impact. My
 
 ---
 
-## 🐍 Snake Animation
+
 
 <p align="center">
   <picture>
